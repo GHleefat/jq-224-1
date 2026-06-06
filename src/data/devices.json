@@ -1,0 +1,98 @@
+[
+  {
+    "id": "iphone-15-pro",
+    "name": "iPhone 15 Pro",
+    "width": 393,
+    "height": 852,
+    "enabled": true,
+    "category": "mobile"
+  },
+  {
+    "id": "iphone-14",
+    "name": "iPhone 14",
+    "width": 390,
+    "height": 844,
+    "enabled": true,
+    "category": "mobile"
+  },
+  {
+    "id": "iphone-se",
+    "name": "iPhone SE",
+    "width": 375,
+    "height": 667,
+    "enabled": false,
+    "category": "mobile"
+  },
+  {
+    "id": "samsung-s24",
+    "name": "Samsung Galaxy S24",
+    "width": 412,
+    "height": 915,
+    "enabled": true,
+    "category": "mobile"
+  },
+  {
+    "id": "ipad-pro-11",
+    "name": "iPad Pro 11\"",
+    "width": 834,
+    "height": 1194,
+    "enabled": true,
+    "category": "tablet"
+  },
+  {
+    "id": "ipad-air",
+    "name": "iPad Air",
+    "width": 820,
+    "height": 1180,
+    "enabled": false,
+    "category": "tablet"
+  },
+  {
+    "id": "ipad-mini",
+    "name": "iPad Mini",
+    "width": 768,
+    "height": 1024,
+    "enabled": false,
+    "category": "tablet"
+  },
+  {
+    "id": "surface-pro-9",
+    "name": "Surface Pro 9",
+    "width": 2880,
+    "height": 1920,
+    "enabled": false,
+    "category": "tablet"
+  },
+  {
+    "id": "laptop-13",
+    "name": "Laptop 13\"",
+    "width": 1280,
+    "height": 800,
+    "enabled": true,
+    "category": "desktop"
+  },
+  {
+    "id": "laptop-15",
+    "name": "Laptop 15\"",
+    "width": 1440,
+    "height": 900,
+    "enabled": true,
+    "category": "desktop"
+  },
+  {
+    "id": "desktop-hd",
+    "name": "Desktop HD",
+    "width": 1920,
+    "height": 1080,
+    "enabled": true,
+    "category": "desktop"
+  },
+  {
+    "id": "desktop-4k",
+    "name": "Desktop 4K",
+    "width": 2560,
+    "height": 1440,
+    "enabled": false,
+    "category": "desktop"
+  }
+]
